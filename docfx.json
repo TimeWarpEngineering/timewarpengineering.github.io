@@ -18,6 +18,10 @@
       }
     ],
     "dest": "_site",
+    "globalMetadata": {
+      "_appFaviconPath": "images/Logo.png",
+      "_appLogoPath":"images/Logo.svg"
+    },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
