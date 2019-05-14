@@ -40,5 +40,5 @@ steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact: documentationSite'
   inputs:
-    PathtoPublish: 'documentation/_site'
+    PathtoPublish: '_site'
     ArtifactName: _site
