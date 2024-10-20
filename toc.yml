@@ -1,6 +1,4 @@
-- name: Blazor-State
-  href: blazor-state/
-  homepage: blazor-state
-- name: Templates
-  href: templates/
-  homepage: templates
+- name: TimeWarp State
+  href: https://timewarpengineering.github.io/timewarp-state/
+- name: TimeWarp Architecture
+  href: https://timewarpengineering.github.io/timewarp-architecture/
