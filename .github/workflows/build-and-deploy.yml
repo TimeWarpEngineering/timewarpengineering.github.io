@@ -12,19 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/setup-dotnet@v4
       
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 6.0.x
+        dotnet-version: 7.0.x
         
     - name: Setup DocFX
       run: |
-        dotnet tool update -g docfx
+        dotnet tool update -g docfx --version 2.60.2
         
     - name: Build with DocFX
-      run: docfx docfx.json
+      run: docfx ./docfx.json
       
     - name: Deploy to GitHub Pages
       if: github.event_name == 'push'
