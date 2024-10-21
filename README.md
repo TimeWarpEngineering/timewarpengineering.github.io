@@ -15,10 +15,7 @@
 
 ![TimeWarp Logo](https://raw.githubusercontent.com/TimeWarpEngineering/timewarpengineering.github.io/refs/heads/master/images/LogoNoMarginNoShadow.svg)
 
-# TimeWarp Enterprises Open Source Software
-## Links
-
-[TimeWarp Enterprises](https://timewarp.ws/)
+[TimeWarp Enterprises Company Site](https://timewarp.ws/)
 
 [GitHub](https://github.com/TimeWarpEngineering)
 
