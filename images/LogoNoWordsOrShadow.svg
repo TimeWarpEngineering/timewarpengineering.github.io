@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="241.93198"
-   height="241.91246"
-   viewBox="0 0 64.011168 64.006003"
+   width="50"
+   height="49.995968"
+   viewBox="0 0 50 50"
    version="1.1"
    id="svg8"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="HeaderLogo.svg"
+   sodipodi:docname="LogoNoWordsOrShadow.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -393,9 +393,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5431249"
-     inkscape:cx="102.18644"
-     inkscape:cy="264.21179"
+     inkscape:zoom="6.1447568"
+     inkscape:cx="52.80925"
+     inkscape:cy="26.770791"
      inkscape:document-units="px"
      inkscape:current-layer="g1074"
      showgrid="false"
@@ -436,13 +436,13 @@
      inkscape:label="guide"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-100.28606,-134.63842)" />
+     transform="translate(-107.29164,-141.64137)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(-100.28606,-1425.1384)">
+     transform="translate(-107.29164,-1432.1414)">
     <g
        id="g2167"
        inkscape:export-xdpi="33.599998"
@@ -460,7 +460,8 @@
        inkscape:export-xdpi="959.98999"
        inkscape:export-ydpi="959.98999">
       <g
-         id="g470">
+         id="g470"
+         transform="matrix(0.7811767,0,0,0.7811767,103.05669,318.35578)">
         <path
            inkscape:connector-curvature="0"
            style="fill:url(#radialGradient1007);fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -517,7 +518,8 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g1053" />
+         id="g1053"
+         transform="matrix(0.16144553,0,0,0.16144553,394.92435,1219.9736)" />
     </g>
   </g>
 </svg>
