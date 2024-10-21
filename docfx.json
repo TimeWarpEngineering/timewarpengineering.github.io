@@ -19,13 +19,14 @@
     ],
     "dest": "_site",
     "globalMetadata": {
-      "_appFaviconPath": "images/Logo.png",
-      "_appLogoPath":"images/Logo.png"
+      "_appFaviconPath": "images/LogoNoWordsOrShadow.svg",
+      "_appLogoPath":"images/LogoNoWordsOrShadow.svg"
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "custom-template"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
